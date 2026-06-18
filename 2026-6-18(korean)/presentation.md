@@ -1,1 +1,1 @@
-![OBJ_C](./OBJECTIVE-C.jpeg)
+![OBJ_C](./OBJECTIVE-C.png)
